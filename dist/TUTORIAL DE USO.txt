@@ -1,9 +1,0 @@
-Este programa toma una imagen le saca el texto y despues lo traduce a Braille
-
-1.- Usar una imagen de tipo documento (texto sobre fondo blanco)
-2.- La imagen tiene que llamarse exactamente "imagen.jpg"
-3.- Al tener los previos requisitos dar click en Proyecto_Invidentes.exe
-4.- Despues de el click obtendremos nuestro resultado final, 
-    en un archivo llamdo output.txt
-
-Vease el ejemplo con la imagen (imagen.jpg) propuesta dentro de esta carpeta
